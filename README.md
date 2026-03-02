@@ -1,28 +1,25 @@
-<div align="center">
-  
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 800px;">
-
-<div align="left" style="width: 50%;">
-
-## Hey 👋 ich bin Korbi
+## Hi there.
 
 Schüler & Hobby-Web-Developer  
-Interesse an Web3  
-Baue Projekte mit:
+Interesse an Web3 & Python
 
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
+<br>
 
-</div>
-
-<div align="right" style="width: 50%;">
-
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['HTML','CSS','JavaScript','Python'],datasets:[{data:[25,20,25,30]}]},options:{plugins:{legend:{labels:{color:'white'}}}}}" width="260"/>
-
-</div>
-
-</div>
-
-</div>
+<p align="right">
+  <img src="https://quickchart.io/chart?c={
+    type:'doughnut',
+    data:{
+      labels:['HTML','CSS','JavaScript','Python'],
+      datasets:[{
+        data:[25,20,25,30],
+        backgroundColor:['#e34c26','#264de4','#f0db4f','#3776ab'],
+        borderWidth:0
+      }]
+    },
+    options:{
+      cutout:'65%',
+      plugins:{legend:{display:false}},
+      layout:{padding:10}
+    }
+  }" width="260"/>
+</p>

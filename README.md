@@ -1,16 +1,16 @@
-<table border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h2> 🚀 Hallo, ich bin [Dein Name]</h2>
-      <p>Ich bin leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien.</p>
+<div align="center">
+  <div style="display: flex; align-items: flex-start; justify-content: space-between;">
+    <!-- Linke Seite -->
+    <div align="left" style="width: 55%;">
+      <h3>Über mich</h3>
       <ul>
-        <li>🛠️ <b>Tech-Stack:</b> Python, JS, HTML/CSS</li>
-        <li>💡 <b>Interessen:</b> UI/UX Design & Backend Logic</li>
-        <li>🌱 <b>Lerne gerade:</b> Advanced System Architecture</li>
+        <li>🚀 Punkt 1</li>
+        <li>🛠️ Punkt 2</li>
       </ul>
-    </td>
-    <td width="45%" valign="center" align="right">
-      <img src="assets/Diagramm.png" width="350px" alt="Skill Chart">
-    </td>
-  </tr>
-</table>
+    </div>
+    <!-- Rechte Seite -->
+    <div align="right" style="width: 40%;">
+      <img src="assets/diagramm.png" width="100%" alt="Skill Chart">
+    </div>
+  </div>
+</div>

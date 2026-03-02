@@ -10,7 +10,7 @@
       </ul>
     </td>
     <td width="45%" valign="center" align="right">
-      <img src="assets/diagramm.png" width="350px" alt="Skill Chart">
+      <img src="assets/Diagramm.png" width="350px" alt="Skill Chart">
     </td>
   </tr>
 </table>

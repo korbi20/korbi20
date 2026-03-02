@@ -1,16 +1,12 @@
-<div align="center">
-  <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-    <!-- Linke Seite -->
-    <div align="left" style="width: 55%;">
-      <h3>Über mich</h3>
-      <ul>
-        <li>🚀 Punkt 1</li>
-        <li>🛠️ Punkt 2</li>
-      </ul>
-    </div>
-    <!-- Rechte Seite -->
-    <div align="right" style="width: 40%;">
-      <img src="assets/diagramm.png" width="100%" alt="Skill Chart">
-    </div>
-  </div>
-</div>
+<img src="assets/Diagramm.png" align="right" width="350" alt="Skill Chart">
+
+### Hey there 👋
+
+I am a hobby web developer.
+
+What started as "playing around" has turned into an obsession. Right now, I'm diving into Python. At the same time, I'm wrestling with CSS to ensure that my projects not only function well but also look good. 
+
+#### Tools I use daily
+[![My Skills](https://skillicons.dev/icons?i=bash,git,md,webstorm)](https://skillicons.dev)
+
+<br clear="right"/>

@@ -1,4 +1,4 @@
-<img src="assets/Diagramm.png" align="right" width="350" alt="Skill Chart">
+<img src="assets/Diagramm.png" align="right" width="350" alt="Current Language Usage">
 
 ### Hey there 👋
 

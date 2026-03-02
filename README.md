@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, ich bin Korbi
 
-<!--
-**korbi20/korbi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hobby+Web+Developer;Web3+Explorer;Python+Enjoyer" />
+</p>
 
-Here are some ideas to get you started:
+🧑‍💻 Schüler & Hobby-Web-Dev  
+🐍 Web3 & Python  
+🚀 Baue Projekte aus Spaß  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=korbi20&show_icons=true&theme=tokyonight&hide_border=true)

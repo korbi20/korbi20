@@ -2,7 +2,7 @@
 
 ### Hey there 👋
 
-I´m a hobby web developer.
+I'm a hobby web developer.
 
 What started as "playing around" has turned into an obsession. Right now, I'm diving into Python within Fedora workflow. At the same time, I'm wrestling with CSS to ensure that my projects not only function well but also look good. 
 

@@ -9,6 +9,6 @@ What started as "playing around" has turned into an obsession. Right now, I'm di
 What's next? I don't know, probably a new website project or something to put my (hopefully) new Python skills to use.
 
 #### Tools I use daily
-[![My Skills](https://skillicons.dev/icons?i=bash,git,md,webstorm,github)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,git,md,vscode,webstorm,github)]()
 
 <br clear="right"/>

@@ -1,13 +1,19 @@
-# 👋 Hey, ich bin Korbi
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hobby+Web+Developer;Web3+Explorer;Python+Enjoyer" />
-</p>
+## Hey 👋 ich bin Korbi
 
-🧑‍💻 Schüler & Hobby-Web-Dev  
-🐍 Web3 & Python  
-🚀 Baue Projekte aus Spaß  
+Schüler & Hobby-Web-Developer  
+Fokus auf **Web3** & **Python**  
+Baue Projekte einfach aus Spaß 🚀  
 
----
+</td>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=korbi20&show_icons=true&theme=tokyonight&hide_border=true)
+<td width="50%" align="center">
+
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Web3','Other'],datasets:[{data:[50,35,15]}]}}" width="250"/>
+
+</td>
+</tr>
+</table>

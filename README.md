@@ -9,7 +9,4 @@ What started as "playing around" has turned into an obsession. Right now, I'm di
 #### Tools I use daily
 [![My Skills](https://skillicons.dev/icons?i=bash,git,md,webstorm,github)]()
 
-##### Kontakt
-[![Contact ME](https://skillicons.dev/icons?i=discord)]()
-
 <br clear="right"/>
